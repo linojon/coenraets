@@ -1,0 +1,4 @@
+http://www.raywenderlich.com/30734
+
+http://coenraets.org/blog/phonegap-tutorial/
+https://github.com/ccoenraets/phonegap-workshop-solutions
